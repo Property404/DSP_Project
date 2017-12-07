@@ -4,5 +4,12 @@
 !*.tex
 !*.png
 !.gitignore
+
 !*.py
+!task1
+!task2
+!task3
+!task1/*
+!task2/*
+!task3/*
 
